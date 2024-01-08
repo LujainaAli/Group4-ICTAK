@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-  <test thread-count="5" name="Test">
-    <classes>
-      <class name="com.ictwebsite.test.EventsTestClass"/>
-    </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="com.ictwebsite.test.ContactusTestClass" />
+			<class name="com.ictwebsite.test.LoginTestClass" />
+			<class name="com.ictwebsite.test.DashboardTestClass" />
+			<class name="com.ictwebsite.test.DashboardDownloadTestClass" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
