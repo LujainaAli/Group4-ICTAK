@@ -3,9 +3,10 @@
 <suite name="Suite">
 	<test thread-count="5" name="Test">
 		<classes>
-      <class name="com.ictwebsite.test.MembershipsTestClass"/>
-      <class name="com.ictwebsite.pages.MembershipsPage"/>
-      <class name="com.ictwebsite.test.TestClass"/>
+			<class name="com.ictwebsite.test.EventsTestClass"/>
+      			<class name="com.ictwebsite.test.MembershipsTestClass"/>
+      			<class name="com.ictwebsite.pages.MembershipsPage"/>
+     			<class name="com.ictwebsite.test.TestClass"/>
 			<class name="com.ictwebsite.test.ContactusTestClass" />
 			<class name="com.ictwebsite.test.LoginTestClass" />
 			<class name="com.ictwebsite.test.DashboardTestClass" />
