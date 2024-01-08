@@ -1,6 +1,6 @@
 package com.ictwebsite.test;
 
-import java.io.FileInputStream;
+import java.io.FileInputStre
 import java.io.IOException;
 import java.time.Duration;
 import java.util.Properties;
@@ -39,6 +39,4 @@ public class TestBase {
 	public void finish() {
 		driver.quit();
 	}
-	
-
 }
