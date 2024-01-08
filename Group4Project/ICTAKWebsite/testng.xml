@@ -3,7 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.ictwebsite.test.EventsTestClass"/>
+      <class name="com.ictwebsite.test.MembershipsTestClass"/>
+      <class name="com.ictwebsite.pages.MembershipsPage"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
