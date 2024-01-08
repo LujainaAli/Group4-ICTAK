@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.ictwebsite.pages.TECHATHLONpage.java&apos; to &apos;TechathlonPAGE.java&apos;&#x0D;&#x0A;- Original project: &apos;ICTAKWebsite&apos;&#x0D;&#x0A;- Original element: &apos;com.ictwebsite.pages.TECHATHLONpage.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.ictwebsite.pages.TechathlonPAGE.java&apos;" description="Rename compilation unit &apos;TECHATHLONpage.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ictwebsite.pages{TECHATHLONpage.java" name="TechathlonPAGE.java" references="false" stamp="1703667921466" version="1.0"/>
+</session>

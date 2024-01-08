@@ -1,0 +1,116 @@
+package com.ictwebsite.test;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import com.ictwebsite.constants.AutomationConstants;
+import com.ictwebsite.pages.EventsPage;
+import com.ictwebsite.pages.TechathlonPAGE;
+
+public class EventsTestClass extends TestBase {
+
+	EventsPage obj = null;
+	TechathlonPAGE obj1 = null;
+
+	@Test
+
+	public void testcase1() {
+		obj = new EventsPage(driver);
+		obj.eventsFunc();
+		obj.icsetPage();
+		String actualICSETpg = driver.getCurrentUrl();
+	
+		Assert.assertEquals(actualICSETpg, AutomationConstants.ICSETloading);
+		
+	}
+
+//	@Test
+//
+//	public void testcase2() {
+//		obj = new EventsPage(driver);
+//		obj.eventsFunc();
+//		obj.icsetPage();
+//////		obj.aboutUs();
+////		
+//////		obj.objectives();
+//		obj.agenda();
+//		String agendaActual = obj.agendaContent();
+//		Assert.assertEquals(agendaActual, AutomationConstants.agendaExpected);
+//	}
+
+//	@Test
+//
+//	public void testcase3() {
+//		obj = new EventsPage(driver);
+//		obj.eventsFunc();
+//		obj.icsetPage();
+//		obj.applynow();
+//		obj.name();
+//		obj.email();
+//		obj.phonenumb();
+//		obj.register();
+//		Assert.assertEquals(obj.successmsg(),AutomationConstants.regSuccessMsg );
+//		
+//	}
+//
+//	@Test
+//
+//	public void testcase4() throws InterruptedException {
+//		obj = new EventsPage(driver);
+//		obj.eventsFunc();
+//		obj1 = new TechathlonPAGE(driver);
+//
+//		obj1.techath();
+//		obj1.apply2();
+//		obj1.name2();
+//		obj1.email2();
+//		obj1.mobNum2();
+//		obj1.register2();
+//	Assert.assertEquals(obj.successmsg(), AutomationConstants.regSuccessMsg);	
+//
+//	}
+////
+//	@Test
+
+//	public void testcase5() throws InterruptedException {
+//		obj = new EventsPage(driver);
+//		obj.eventsFunc();
+//		obj1 = new TechathlonPAGE(driver);
+//		obj1.techath();
+//		obj1.apply2();
+//		obj1.name3();
+//		obj1.email3();
+//		obj1.mobNum3();
+//		obj1.register2();
+//		Assert.assertEquals(obj.successmsg(), AutomationConstants.regUnsuccess);
+//	}
+
+//	@Test
+//
+//	public void testcase6() throws InterruptedException {
+//		obj = new EventsPage(driver);
+//		obj.eventsFunc();
+//		obj1 = new TechathlonPAGE(driver);
+//		obj1.techath();
+//		obj1.apply2();
+//		obj1.blankvalues();
+//		boolean regisStatus = obj1.registrationDisabled();
+//         Assert.assertFalse(regisStatus);  
+//		
+//	}
+
+//	@Test
+//
+//	public void testcase7() {
+//		obj = new EventsPage(driver);
+//		obj.eventsFunc();
+//		obj.icsetPage();
+//		obj.applynow();
+//		obj.name4();
+//		obj.email4();
+//		obj.phonenumb4();
+//		obj.register();
+//		
+//	}
+
+}

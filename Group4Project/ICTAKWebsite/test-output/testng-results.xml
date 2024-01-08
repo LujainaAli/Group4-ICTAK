@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="10" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-08T10:15:01 IST" name="Suite" finished-at="2024-01-08T10:22:11 IST" duration-ms="430280">
+    <groups>
+    </groups>
+    <test started-at="2024-01-08T10:15:01 IST" name="Test" finished-at="2024-01-08T10:22:11 IST" duration-ms="430280">
+      <class name="com.ictwebsite.test.EventsTestClass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:15:01 IST" name="setup" finished-at="2024-01-08T10:15:36 IST" duration-ms="35637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="bef()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:15:36 IST" name="bef" finished-at="2024-01-08T10:15:37 IST" duration-ms="514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method signature="testcase1()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:15:37 IST" name="testcase1" finished-at="2024-01-08T10:15:38 IST" duration-ms="1484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:15:38 IST" name="driverclose" finished-at="2024-01-08T10:15:39 IST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:15:39 IST" name="setup" finished-at="2024-01-08T10:16:08 IST" duration-ms="28725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="bef()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:16:08 IST" name="bef" finished-at="2024-01-08T10:16:08 IST" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method signature="testcase10()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:16:08 IST" name="testcase10" finished-at="2024-01-08T10:16:10 IST" duration-ms="1811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase10 -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:16:10 IST" name="driverclose" finished-at="2024-01-08T10:16:10 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:16:10 IST" name="setup" finished-at="2024-01-08T10:16:38 IST" duration-ms="27767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="bef()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:16:38 IST" name="bef" finished-at="2024-01-08T10:16:38 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method signature="testcase11()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:16:38 IST" name="testcase11" finished-at="2024-01-08T10:16:39 IST" duration-ms="1095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase11 -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:16:39 IST" name="driverclose" finished-at="2024-01-08T10:16:40 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:16:40 IST" name="setup" finished-at="2024-01-08T10:17:08 IST" duration-ms="28651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="bef()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:17:08 IST" name="bef" finished-at="2024-01-08T10:17:09 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method signature="testcase12()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:17:09 IST" name="testcase12" finished-at="2024-01-08T10:17:11 IST" duration-ms="1794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase12 -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:17:11 IST" name="driverclose" finished-at="2024-01-08T10:17:11 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:17:11 IST" name="setup" finished-at="2024-01-08T10:17:39 IST" duration-ms="28388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="bef()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:17:39 IST" name="bef" finished-at="2024-01-08T10:17:40 IST" duration-ms="518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method signature="testcase2()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:17:40 IST" name="testcase2" finished-at="2024-01-08T10:17:41 IST" duration-ms="1638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:17:41 IST" name="driverclose" finished-at="2024-01-08T10:17:42 IST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:17:42 IST" name="setup" finished-at="2024-01-08T10:17:47 IST" duration-ms="5348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="bef()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:17:47 IST" name="bef" finished-at="2024-01-08T10:18:47 IST" duration-ms="59512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method signature="testcase3()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:18:47 IST" name="testcase3" finished-at="2024-01-08T10:18:49 IST" duration-ms="2259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:18:49 IST" name="driverclose" finished-at="2024-01-08T10:18:49 IST" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:18:49 IST" name="setup" finished-at="2024-01-08T10:19:20 IST" duration-ms="30671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="bef()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:19:20 IST" name="bef" finished-at="2024-01-08T10:19:20 IST" duration-ms="560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method signature="testcase4()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:19:20 IST" name="testcase4" finished-at="2024-01-08T10:19:23 IST" duration-ms="2531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:19:23 IST" name="driverclose" finished-at="2024-01-08T10:19:23 IST" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:19:23 IST" name="setup" finished-at="2024-01-08T10:19:53 IST" duration-ms="29670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="bef()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:19:53 IST" name="bef" finished-at="2024-01-08T10:19:54 IST" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method signature="testcase5()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:19:54 IST" name="testcase5" finished-at="2024-01-08T10:19:56 IST" duration-ms="2477" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected:<Registration Successfull> but was:<Registration Unsuccessful due to wrong credentials>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected:<Registration Successfull> but was:<Registration Unsuccessful due to wrong credentials>
+at org.testng.AssertJUnit.assertEquals(AssertJUnit.java:115)
+at org.testng.AssertJUnit.assertEquals(AssertJUnit.java:125)
+at com.ictwebsite.test.EventsTestClass.testcase5(EventsTestClass.java:87)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:19:56 IST" name="driverclose" finished-at="2024-01-08T10:19:57 IST" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:19:57 IST" name="setup" finished-at="2024-01-08T10:20:27 IST" duration-ms="30486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="bef()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:20:27 IST" name="bef" finished-at="2024-01-08T10:20:27 IST" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method signature="testcase6()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:20:27 IST" name="testcase6" finished-at="2024-01-08T10:20:29 IST" duration-ms="1722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:20:29 IST" name="driverclose" finished-at="2024-01-08T10:20:29 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:20:29 IST" name="setup" finished-at="2024-01-08T10:21:02 IST" duration-ms="32130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="bef()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:21:02 IST" name="bef" finished-at="2024-01-08T10:21:02 IST" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method signature="testcase7()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:21:02 IST" name="testcase7" finished-at="2024-01-08T10:21:04 IST" duration-ms="2261" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected:<Registration Successfull> but was:<Registration Unsuccessful due to wrong credentials>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected:<Registration Successfull> but was:<Registration Unsuccessful due to wrong credentials>
+at org.testng.AssertJUnit.assertEquals(AssertJUnit.java:115)
+at org.testng.AssertJUnit.assertEquals(AssertJUnit.java:125)
+at com.ictwebsite.test.EventsTestClass.testcase7(EventsTestClass.java:111)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase7 -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:21:04 IST" name="driverclose" finished-at="2024-01-08T10:21:05 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:21:05 IST" name="setup" finished-at="2024-01-08T10:21:36 IST" duration-ms="31196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="bef()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:21:36 IST" name="bef" finished-at="2024-01-08T10:21:37 IST" duration-ms="703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method signature="testcase8()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:21:37 IST" name="testcase8" finished-at="2024-01-08T10:21:38 IST" duration-ms="1817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase8 -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:21:38 IST" name="driverclose" finished-at="2024-01-08T10:21:39 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:21:39 IST" name="setup" finished-at="2024-01-08T10:22:09 IST" duration-ms="30082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="bef()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:22:09 IST" name="bef" finished-at="2024-01-08T10:22:09 IST" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method signature="testcase9()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:22:09 IST" name="testcase9" finished-at="2024-01-08T10:22:11 IST" duration-ms="1366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase9 -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:com.ictwebsite.test.EventsTestClass@399f45b1]" started-at="2024-01-08T10:22:11 IST" name="driverclose" finished-at="2024-01-08T10:22:11 IST" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+      </class> <!-- com.ictwebsite.test.EventsTestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
